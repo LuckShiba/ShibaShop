@@ -1,0 +1,5 @@
+.next
+dist
+packages/**/*.js
+node_modules
+.eslintrc.js

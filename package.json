@@ -1,0 +1,19 @@
+{
+  "name": "shibashop",
+  "version": "0.1.0",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "author": "LuckShiba <luckshiba@protonmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.0.5",
+    "@shibashop/eslint-config": "*"
+  }
+}
