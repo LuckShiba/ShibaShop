@@ -24,6 +24,9 @@
     "**/*.ts",
     "**/*.tsx"
   ],
+  "files": [
+    "src/styles/styled.d.ts"
+  ],
   "exclude": [
     "node_modules"
   ]

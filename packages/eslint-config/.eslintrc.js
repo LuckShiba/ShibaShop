@@ -33,8 +33,9 @@ module.exports = {
         jsx: 'never',
         ts: 'never',
         tsx: 'never'
-      }
-    ]
+      },
+    ],
+    // 'import/no-unresolved': 'off'
   },
   settings: {
     'import/resolver': {
